@@ -1,6 +1,6 @@
 # npmtest-wunderlist
 
-#### test coverage for  [wunderlist (v0.1.3)](https://github.com/wunderlist/wunderlist.js)  [![npm package](https://img.shields.io/npm/v/npmtest-wunderlist.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wunderlist) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wunderlist.svg)](https://travis-ci.org/npmtest/node-npmtest-wunderlist)
+#### basic test coverage for  [wunderlist (v0.1.3)](https://github.com/wunderlist/wunderlist.js)  [![npm package](https://img.shields.io/npm/v/npmtest-wunderlist.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wunderlist) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wunderlist.svg)](https://travis-ci.org/npmtest/node-npmtest-wunderlist)
 
 #### The Wunderlist JS SDK simplifies interacting with the Wunderlist API. It can be used both in the browser and on the server side.
 
